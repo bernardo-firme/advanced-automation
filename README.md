@@ -46,14 +46,6 @@ The directory structure of your new project looks like this (please adjust the s
 |    │
 |    └── visualization <- Scripts and functions for visualizations
 |
-├── practical-classes  <- Pratical classes
-|    ├── P1            <- Introduction to Jupyter Notebook and APIs
-|    ├── P2
-|    ├── P3
-|    ├── P4
-|    ├── P5
-|    ├── P6
-|    ├── P7
 └── laboratory         <- Laboratory classes
      ├── L1_Git        <- Github
      ├── L2_GCollab    <- Cloud Computing: Google Collab
