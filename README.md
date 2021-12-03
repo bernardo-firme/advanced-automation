@@ -46,7 +46,7 @@ The directory structure of your new project looks like this (please adjust the s
 |    │
 |    └── visualization <- Scripts and functions for visualizations
 |
-└── laboratory         <- Laboratory classes
+└── laboratory         <- Laboratory classes (add only the necessary files)
      ├── L1_Git        <- Github
      ├── L2_GCollab    <- Cloud Computing: Google Collab
      ├── L3_DB         <- Databases and SQL Query
