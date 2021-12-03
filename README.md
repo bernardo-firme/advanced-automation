@@ -22,7 +22,8 @@ The directory structure of your new project looks like this (please adjust the s
 │   └── thesis         <- Thesis source files
 │       └── templates  <- Thesis templates
 │
-├── references         <- Articles, books and other references used in your project. It is good practice to reference these materials in the comments of your code.
+├── references         <- Articles, books and other references used in your project. It is good practice to reference 
+|                         these materials in the comments of your code.
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), the creator's initials, and a short `-` delimited description, e.g. `1.0-jqp-initial-data-exploration`.
 │
