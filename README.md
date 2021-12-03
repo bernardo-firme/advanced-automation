@@ -22,15 +22,16 @@ The directory structure of your new project looks like this (please adjust the s
 │   └── thesis         <- Thesis source files
 │       └── templates  <- Thesis templates
 │
-├── references         <- Articles, books and other references used in your project. It is good practice to reference 
-|                         these materials in the comments of your code.
+├── references         <- Articles, books and other references used in your project. It is good practice to  
+|                         reference these materials in the comments of your code.
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), the creator's initials, and 
-|                         a short `-` delimited description, e.g. `1.0-aa-initial-data-exploration`.
+├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), the creator's  
+|                         initials, and a short `-` delimited description, e.g. `1.0-aa-initial-data-exploration`.
 │
-├── requirements.txt   <- The file with instructions for reproducing the project environment (software). Indicates the 
-|                         version of  software you are using. If using Python, you can do `pip freeze > requirements.txt` 
-|                         to generate a list with the version of the different packages you use
+├── requirements.txt   <- The file with instructions for reproducing the project environment (software).  
+|                         Indicates the version of  software you are using. If using Python, you can do 
+|                         `pip freeze > requirements.txt`  to generate a list with the version of the 
+|                         different packages you use
 │
 ├── code               <- Source code for use in this project.
 |    ├── data          <- Scripts to download, generate and process data
