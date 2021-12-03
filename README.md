@@ -1,6 +1,6 @@
 # Advanced Automation Project Structure
 
-*A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://www.markdownguide.org/basic-syntax/))*
+*A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
 
 This repository contains the base structure for Advanced Automation course. Final project and theses can also use this structure. Please follow the folder structure presented as close as you can. As all projects have different requirements, you will probably have to change the structure a bit to fit your needs.
 
