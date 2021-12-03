@@ -26,7 +26,7 @@ The directory structure of your new project looks like this (please adjust the s
 |                         these materials in the comments of your code.
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), the creator's initials, and 
-|                         a short `-` delimited description, e.g. `1.0-jqp-initial-data-exploration`.
+|                         a short `-` delimited description, e.g. `1.0-aa-initial-data-exploration`.
 │
 ├── requirements.txt   <- The file with instructions for reproducing the project environment (software). Indicates the 
 |                         version of  software you are using. If using Python, you can do `pip freeze > requirements.txt` 
