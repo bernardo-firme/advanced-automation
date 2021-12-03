@@ -44,19 +44,19 @@ The directory structure of your new project looks like this (please adjust the s
 |    │
 |    └── visualization <- Scripts and functions for visualizations
 |
-├── practical-classes
-|    ├── P1
+├── practical-classes  <- Pratical classes
+|    ├── P1            <- Introduction to Jupyter Notebook and APIs
 |    ├── P2
 |    ├── P3
 |    ├── P4
 |    ├── P5
 |    ├── P6
 |    ├── P7
-└── laboratory
-     ├── L1_Git
-     ├── L2_GCollab
-     ├── L3_DB
-     └── L4_Arduino
+└── laboratory         <- Laboratory classes
+     ├── L1_Git        <- Github
+     ├── L2_GCollab    <- Cloud Computing: Google Collab
+     ├── L3_DB         <- Databases and SQL Query
+     └── L4_Arduino    <- Hardware implementation: Arduino
 ```
 
 
