@@ -19,8 +19,8 @@ The directory structure of your new project looks like this (please adjust the s
 ├── docs               <- Documents
 │   ├── reports        <- Generated analysis as HTML, PDF, LaTeX, DOCX etc.
 │   ├── figures        <- Generated graphics and figures to be used in reporting
-│   └── thesis         <- Thesis source files
-│       └── templates  <- Thesis templates
+│   └── project/thesis <- Thesis source files
+│       └── templates  <- Thesis templates (if available)
 │
 ├── references         <- Articles, books and other references used in your project. It is good practice to  
 |                         reference these materials in the comments of your code.
