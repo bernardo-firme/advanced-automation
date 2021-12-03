@@ -55,29 +55,3 @@ It makes use of Markdown, which is a markup language focused on readability. You
 [Daring Fireball Markdown Syntax Guide](https://daringfireball.net/projects/markdown/syntax)
 
 Multiple text editors, such as Visual Studio Code, Sublime Text, Atom, Notepad++ have extensions that you can install to transform the Markdown file (.md) into a .pdf or .html.
-
-
-### Using Git and GitHub
-
-To make sure you don't lose your work, improve collaboration potencial and supervisor feedback, it is advised to copy this structure to a folder and create a Git repository from it.
-
-If you have never used Git, you will have to follow the following steps:
-
-1. Register on [GitHub](https://github.com)
-2. Download and install [GitHub Desktop](https://desktop.github.com/)
-3. Go to [IS4 Project Structure Repository](https://github.com/jqmviegas/is4-project-structure) and click on **Use this template**
-4. Give a name to your repository and make sure you make it private
-5. Open the GitHub Desktop software and login with your GitHub credentials
-6. Go to: File -> Clone repository ...
-7. Select your newly created GitHub repository and choose the directory you want to save it on
-8. Clone!
-9.  Work, commit and push changes everyday!
-
-For additional information on using Git and GitHub:
-
-- [Getting started with GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop)
-- [An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop)
-
-### Contributers
-
-jqmviegas (Joaquim L. Viegas): [joaquim.viegas@tecnico.ulisboa.pt](joaquim.viegas@tecnico.ulisboa.pt)
