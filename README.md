@@ -32,17 +32,30 @@ The directory structure of your new project looks like this (please adjust the s
 |                         version of  software you are using. If using Python, you can do `pip freeze > requirements.txt` 
 |                         to generate a list with the version of the different packages you use
 │
-└── code               <- Source code for use in this project.
-    ├── data           <- Scripts to download, generate and process data
-    │   └── make_dataset.py/m
-    │   └── process_dataset.py/m
-    │
-    ├── algorithms     <- Functions to create models, run models, optization algorithms, etc.
-    │
-    ├── results        <- Scripts to apply the algorithms and obtain the results of your project
-    │
-    └── visualization  <- Scripts and functions for visualizations
-
+├── code               <- Source code for use in this project.
+|    ├── data          <- Scripts to download, generate and process data
+|    │   └── make_dataset.py/m
+|    │   └── process_dataset.py/m
+|    │
+|    ├── algorithms    <- Functions to create models, run models, optization algorithms, etc.
+|    │
+|    ├── results       <- Scripts to apply the algorithms and obtain the results of your project
+|    │
+|    └── visualization <- Scripts and functions for visualizations
+|
+├── practical-classes
+|    ├── P1
+|    ├── P2
+|    ├── P3
+|    ├── P4
+|    ├── P5
+|    ├── P6
+|    ├── P7
+└── laboratory
+     ├── L1_Git
+     ├── L2_GCollab
+     ├── L3_DB
+     └── L4_Arduino
 ```
 
 
