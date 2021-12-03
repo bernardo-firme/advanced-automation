@@ -72,6 +72,4 @@ It makes use of Markdown, which is a markup language focused on readability. You
 
 [Markdown Basics Guide](https://markdown-guide.readthedocs.io/en/latest/basics.html)
 
-[Daring Fireball Markdown Syntax Guide](https://daringfireball.net/projects/markdown/syntax)
-
 Multiple text editors, such as Visual Studio Code, Sublime Text, Atom, Notepad++ have extensions that you can install to transform the Markdown file (.md) into a .pdf or .html.
