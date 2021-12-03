@@ -1,8 +1,8 @@
-# IS4 Project Structure
+# Advanced Automation Project Structure
 
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://www.markdownguide.org/basic-syntax/))*
 
-This repository contains the base structure for research projects and theses. Please follow the folder structure presented as close as you can. As all projects have different requirements, you will probably have to change the structure a bit to fit your needs.
+This repository contains the base structure for Advanced Automation course. Research projects and theses can also use this structure. Please follow the folder structure presented as close as you can. As all projects have different requirements, you will probably have to change the structure a bit to fit your needs.
 
 ### Folder structure
 
